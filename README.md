@@ -23,6 +23,9 @@ Se quantidade de vitórias entre 91 e 100  - Lendário
 Se quantidade de vitórias maior ou igual a 101  - Imortal
 
 
+Mensagem de saída : O herói tem de saldo {saldovitorias} e está no nível {nível}
+
+
 
 
 
