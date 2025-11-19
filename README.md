@@ -7,7 +7,6 @@ pontos = vitórias -derrotas
 
 Nível do jogador conforme escala:
 
-
 Se quantidade de vitórias menor do que 10 - Nível Ferro
 
 Se quantidade de vitórias entre 11 e 20  - Nível Bronze
@@ -24,6 +23,17 @@ Se quantidade de vitórias maior ou igual a 101  - Imortal
 
 
 Mensagem de saída : O herói tem de saldo {saldovitorias} e está no nível {nível}
+
+Para utilizar basta executar a função Main() dentro de index.js
+
+como utilizar : git clone https://github.com/flavioteixeira1/desafio-felipao-rankeadas.git  
+
+cd desafio-felipao-rankeadas/
+
+node index.js 
+
+
+
 
 
 
